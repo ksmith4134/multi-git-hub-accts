@@ -5,8 +5,8 @@ This example will use accounts called "personal" and "work".
 
 ### Create your SSH keys if you haven't already
 ```bash
-ssh-keygen -t ed25519 -C "your_email_account1@example.com" -f $env:USERPROFILE\.ssh\id_ed25519
-ssh-keygen -t ed25519 -C "your_email_account2@example.com" -f $env:USERPROFILE\.ssh\id_ed25519_work
+ssh-keygen -t ed25519 -C "personal_email@example.com" -f $env:USERPROFILE\.ssh\id_ed25519
+ssh-keygen -t ed25519 -C "work_email@example.com" -f $env:USERPROFILE\.ssh\id_ed25519_work
 ```
 
 
