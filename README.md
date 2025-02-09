@@ -1,4 +1,4 @@
-# multi-git-hub-accts
+# Multiple GitHub Accounts on a Single Device
 Instructions on how to use multiple GitHub accounts on a single device.
 This example will use accounts called "personal" and "work".
 
